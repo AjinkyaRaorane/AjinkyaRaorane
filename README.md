@@ -43,7 +43,7 @@
 - See all my Certifications here 👉🏻 [Credly](https://www.credly.com/users/ajinkya-raorane/badges)
 
 <p align="left">
-  <img src="https://images.credly.com/336eebfc-0ac3-4553-9a67-b402f491f185/image.png" width="125" height="125">
+  <img src="https://images.credly.com/size/680x680/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" width="125" height="125">
 	
 </p>
 
