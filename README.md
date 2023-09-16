@@ -1,7 +1,7 @@
 # Hi, I'm Ajinkya 👋🏻
 
 ## **I'm a DevOps Engineer**
-- 🚀 I specialize in cloud and DevOps with over 6+ years experience of design and implementation
+- 🚀 I specialize in Cloud and DevOps with over 6+ years experience of design and implementation
 - 📲 Reach out to me for Consultancy regarding Cloud and DevOps.
 - 🤝🏻 I am passionate about my work and always eager to connect with other experts.
 
