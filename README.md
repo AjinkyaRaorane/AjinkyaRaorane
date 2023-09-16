@@ -35,17 +35,12 @@
 </p>
 
 ##  **My Certifications 🏅**
-- [AWS Certified: Security Specialty](https://www.credly.com/badges/efa2379a-4007-40f9-9cef-00d98575d415)
-- [AWS Certified: Advanced Networking Specialty](https://www.credly.com/badges/83200658-432d-41bc-a603-e02cb5d6fd85)
-- [AWS Certified: Big Data Specialty](https://www.credly.com/badges/1fc70ac2-66a9-4f3e-a7c4-e8640be65b14)
-- [AWS Certified: Solutions Architect Professional](https://www.credly.com/badges/829b2cc2-8bf5-45e8-8820-41804d0af88b)
-- [AWS Certified: DevOps Engineer Professional](https://www.credly.com/badges/ac6f908e-731c-4b79-a624-a6f44b3d847f)
-- [HashiCorp Certified: Vault Operations Professional](https://www.credly.com/badges/38df2ba2-894d-44ed-ab89-d047ae8f15d0)
-- [HashiCorp Certified: Terraform Associate](https://www.credly.com/badges/829b2cc2-8bf5-45e8-8820-41804d0af88b)
-- [HashiCorp Certified: Vault Associate](https://www.credly.com/badges/04658c9a-e756-40f5-9cc1-0038c3355c54)
-- [HashiCorp Certified: Consul Associate](https://www.credly.com/badges/10bb093f-0018-40c3-bcb5-8ba4605457fb)
+- [AWS Certified: Solutions Architect – Associate](https://www.credly.com/earner/earned/badge/a9378014-65bf-476e-b539-95d3c986c27b)
+- [CKA: Certified Kubernetes Administrator](https://www.credly.com/earner/earned/badge/8b742847-13fe-4bab-86e3-a2bdc0af06b0)
+- [HashiCorp Certified: Terraform Associate (002)](https://www.credly.com/earner/earned/badge/d1650566-8f3d-4042-a56c-420a915f2faa)
+- [Microsoft Certified: Azure Administrator Associate](https://www.credly.com/earner/earned/badge/ff0471ef-5c9c-4963-9748-dc535f638d03)
 
-- See all my Certifications here 👉🏻 [Credly](https://www.credly.com/users/bryan-krausen)
+- See all my Certifications here 👉🏻 [Credly](https://www.credly.com/users/ajinkya-raorane/badges)
 
 <p align="left">
   <img src="https://images.credly.com/size/340x340/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" width="125" height="125">
