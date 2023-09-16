@@ -43,7 +43,8 @@
 - See all my Certifications here 👉🏻 [Credly](https://www.credly.com/users/ajinkya-raorane/badges)
 
 <p align="left">
-  <img src="https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/image.png" width="125" height="125">
+  <img src="https://images.credly.com/size/340x340/images/23cc43c0-6da9-4651-b251-9a08576c5569/image.png" width="125" height="125">
+
 </p>
 
 ##  **My Achievements 🏅**
