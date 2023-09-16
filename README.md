@@ -51,23 +51,8 @@
 </p>
 
 ##  **My Achievements 🏅**
-- [HashiCorp Ambassador 2022](https://www.credly.com/badges/4c5fb8cd-6967-4fb1-941d-5087f5bf540a)
-- [Terraform: Authorized HashiCorp Instructor](https://www.credly.com/badges/76266b60-c8c3-40cd-ba08-eaa0403532a6)
-- [Vault: Authorized HashiCorp Instructor](https://www.credly.com/badges/4db4a411-d59a-433a-810c-988af1f5ea34)
-- [Consul: Authorized HashiCorp Instructor](https://www.credly.com/badges/8c046d17-788d-4fbe-8120-862557beaedd)
-- [HashiCorp Certified: Vault Operations Professional Exam Contributor](https://www.credly.com/badges/19036f50-d7a9-4ee2-9ab6-a3baffbac855)
-- [HashiCorp Certified: Consul Associate Exam Contributor](https://www.credly.com/badges/b2a11e12-48ac-458d-a91b-e4e84f363d80)
-
-- See all my Achievements here 👉🏻 [Credly](https://www.credly.com/users/bryan-krausen)
-
-<p align="left">
-  <img src="https://images.credly.com/size/340x340/images/f5b76188-fc92-4176-b63c-ea36929dd062/image.png" width="125" height="125">
-  <img src="https://images.credly.com/size/340x340/images/06426d9c-4375-4641-9bd2-4078984affc0/image.png" width="125" height="125">
-  <img src="https://images.credly.com/size/340x340/images/1b61c97d-6378-4457-a986-3123a82d0a03/image.png" width="125" height="125">
-  <img src="https://images.credly.com/size/340x340/images/72d19916-408b-4f4e-825d-865c5aa77335/image.png" width="125" height="125">
-  <img src="https://images.credly.com/size/340x340/images/b871d34d-e2d5-4371-bc02-2c5345fe0df3/image.png" width="125" height="125">
-  <img src="https://images.credly.com/size/340x340/images/28e1a22f-6bbd-49ce-8e08-4a675a7fd899/image.png" width="125" height="125">
-	
+6+ years of DevOps and cloud expertise, with contributions to open-source projects, successful deployments, and a track record of optimizing workflows.
+Proven track record with cloud certifications (e.g., AWS, Kubernetes) and impactful projects, showcasing expertise in CI/CD, automation, and infrastructure as code.
 </p>
 
 ## Profile Views
