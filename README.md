@@ -35,20 +35,24 @@
 </p>
 
 ##  **My Certifications 🏅**
+- [Redhat Certified System Administrator](https://github.com/AjinkyaRaorane/Certifications/blob/main/Red_Hat_Certificate_RHCSA-rhel_AJINKYA_AMARSINH_RAOARNE.pdf)
+- [Redhat Certified Engineer](https://github.com/AjinkyaRaorane/Certifications/blob/main/Red_Hat_Certificate_RHCE-rhel_AJINKYA_AMARSINH_RAORANE.pdf)
 - [AWS Certified: Solutions Architect – Associate](https://www.credly.com/earner/earned/badge/a9378014-65bf-476e-b539-95d3c986c27b)
 - [CKA: Certified Kubernetes Administrator](https://www.credly.com/earner/earned/badge/8b742847-13fe-4bab-86e3-a2bdc0af06b0)
 - [HashiCorp Certified: Terraform Associate (002)](https://www.credly.com/earner/earned/badge/d1650566-8f3d-4042-a56c-420a915f2faa)
 - [Microsoft Certified: Azure Administrator Associate](https://www.credly.com/earner/earned/badge/ff0471ef-5c9c-4963-9748-dc535f638d03)
-- [Redhat Certified: Engineer](https://github.com/AjinkyaRaorane/Certifications/blob/main/Red_Hat_Certificate_RHCE-rhel_AJINKYA_AMARSINH_RAORANE.pdf)
+
 
 - See all my Certifications here 👉🏻 [Credly](https://www.credly.com/users/ajinkya-raorane/badges)
 
 <p align="left">
+  <img src="https://images.credly.com/size/680x680/images/572de0ba-2c59-4816-a59d-b0e1687e45ee/image.png" width="125" height="125"> 
+  <img src="https://images.credly.com/size/680x680/images/19c4e804-54fe-4857-b022-7cfd5520596c/image.png" width="125" height="125"> 
   <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="125" height="125">
   <img src="https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="125" height="125">
   <img src="https://images.credly.com/size/680x680/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" width="125" height="125">
   <img src="https://images.credly.com/size/680x680/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" width="125" height="125">
-  <img src="https://images.credly.com/size/680x680/images/19c4e804-54fe-4857-b022-7cfd5520596c/image.png" width="125" height="125"> 
+  
 	
 </p>
 
