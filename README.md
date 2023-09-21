@@ -39,6 +39,7 @@
 - [CKA: Certified Kubernetes Administrator](https://www.credly.com/earner/earned/badge/8b742847-13fe-4bab-86e3-a2bdc0af06b0)
 - [HashiCorp Certified: Terraform Associate (002)](https://www.credly.com/earner/earned/badge/d1650566-8f3d-4042-a56c-420a915f2faa)
 - [Microsoft Certified: Azure Administrator Associate](https://www.credly.com/earner/earned/badge/ff0471ef-5c9c-4963-9748-dc535f638d03)
+- [Redhat Certified: Engineer](https://github.com/AjinkyaRaorane/Certifications/blob/main/Red_Hat_Certificate_RHCE-rhel_AJINKYA_AMARSINH_RAORANE.pdf)
 
 - See all my Certifications here 👉🏻 [Credly](https://www.credly.com/users/ajinkya-raorane/badges)
 
