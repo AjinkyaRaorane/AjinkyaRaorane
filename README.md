@@ -44,6 +44,9 @@
   <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" width="110" height="30" />
   <img alt="Confluence" src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=Confluence&logoColor=white" width="110" height="30" />
   <img alt="Agile" src="https://img.shields.io/badge/Agile-239120?style=for-the-badge" width="110" height="30" />
+  <img alt="Cloudhealth" src="https://img.shields.io/badge/CloudHealth-1287C7?style=for-the-badge&logo=CloudHealth&logoColor=white" width="110" height="30" />
+  <img alt="CrowdStrike" src="https://img.shields.io/badge/CrowdStrike-FF8200?style=for-the-badge&logo=CrowdStrike&logoColor=white" width="110" height="30" />
+  <img alt="Tanium" src="https://img.shields.io/badge/Tanium-1595F9?style=for-the-badge&logo=Tanium&logoColor=white" width="110" height="30" />
 </p>
 
 ##  **My Certifications 🏅**
