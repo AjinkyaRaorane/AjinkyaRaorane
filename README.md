@@ -22,6 +22,7 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" width="70" height="30" />
   <img alt="Github" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=Github&logoColor=white" width="100" height="30"/>
   <img alt="Gitlab" src="https://img.shields.io/badge/GitLab-%23323330.svg?style=flat-square&logo=Gitlab&logoColor=%23F7DF1E" width="80" height="30"/>
+  <img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache-Maven&logoColor=white" width="100" height="30"/>
   <img alt="Amazon Web Services" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" width="80" height="30"/>
   <img alt="s3" src="https://img.shields.io/badge/AmazonS3-%569A31.svg?style=flat-square&logo=amazons3&logoColor=white" width="110" height="30"/>
   <img alt="VSCode" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" width="120" height="30"/>
@@ -39,6 +40,7 @@
   <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" width="110" height="30" />
   <img alt="github actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=GitHub%20Actions&logoColor=white" width="110" height="30" />
   <img alt="CI/CD" src="https://img.shields.io/badge/CI/CD-4A90E2?style=for-the-badge" width="110" height="30" />
+  <img alt="ELK" src="https://img.shields.io/badge/ELK-005571?style=for-the-badge" width="110" height="30" />
 </p>
 
 ##  **My Certifications 🏅**
