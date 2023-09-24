@@ -40,7 +40,7 @@
   <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" width="110" height="30" />
   <img alt="github actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=GitHub%20Actions&logoColor=white" width="110" height="30" />
   <img alt="CI/CD" src="https://img.shields.io/badge/CI/CD-4A90E2?style=for-the-badge" width="110" height="30" />
-  <img alt="ELK" src="https://img.shields.io/badge/ELK-005571?style=for-the-badge" width="110" height="30" />
+  <img alt="ELK" src="https://img.shields.io/badge/ELK-005571?style=for-the-badge" width="70" height="30" />
   <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" width="110" height="30" />
   <img alt="Confluence" src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=Confluence&logoColor=white" width="110" height="30" />
   <img alt="Agile" src="https://img.shields.io/badge/Agile-239120?style=for-the-badge" width="110" height="30" />
