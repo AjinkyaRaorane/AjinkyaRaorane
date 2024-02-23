@@ -1,7 +1,7 @@
 # Hi, I'm Ajinkya 👋🏻
 
 ## **I'm a DevOps Engineer**
-- 🚀 I specialize in Cloud and DevOps with over 6+ years experience of design and implementation
+- 🚀 I specialize in Cloud and DevOps with over 7+ years experience of design and implementation
 - 📲 Reach out to me for Consultancy regarding Cloud and DevOps.
 - 🤝🏻 I am passionate about my work and always eager to connect with other experts.
 
@@ -72,5 +72,5 @@
 </p>
 
 ##  **My Achievements 🏅**
-- 6+ years of DevOps and cloud expertise, with contributions to open-source projects, successful deployments, and a track record of optimizing workflows.
+- 7+ years of DevOps and cloud expertise, with contributions to open-source projects, successful deployments, and a track record of optimizing workflows.
 - Proven track record with cloud certifications (e.g., AWS, Kubernetes) and impactful projects, showcasing expertise in CI/CD, automation, and infrastructure as code.
